@@ -1,0 +1,6 @@
+@ModestApi_HostAddress = http://localhost:5014
+
+GET {{ModestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
